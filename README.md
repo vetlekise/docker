@@ -17,4 +17,3 @@ This repo contains step-by-step how to create your own Docker image. This contai
 2. To create the container, run `docker run -d -p 80:80 <IMAGE ID>`
 - Since we are exposing port 80 in the run command, we do not need to do it in the Dockerfile.
 3. Check if the container is running using `docker ps`
-
