@@ -1,4 +1,5 @@
 # Docker
+![01-primary-blue-docker-logo](https://github.com/vetlekise/Docker/assets/96139038/beeb2a36-9efd-474c-88af-b85facd0695e)
 ## Description
 This repo contains step-by-step how to create your own Docker image. This container will host a tiny web server that will host a web server through nginx.
 ## Setup
